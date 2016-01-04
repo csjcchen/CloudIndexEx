@@ -9,6 +9,7 @@ import java.util.StringTokenizer;;
 public class LogAnalysis {
 	
 	double TIME_ZERO  = 1406970000;
+	//something changed
 	
 	private class SubQueryComparator implements Comparator{
 		public int compare (Object o1, Object o2){
